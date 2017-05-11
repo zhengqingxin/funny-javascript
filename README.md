@@ -11,3 +11,6 @@
 
 ### Array
 * [在数组中间插入值](https://github.com/zhengqingxin/funny-javascript/blob/master/array-insert/index.js)
+
+### Others
+* [用 ES5 实现 ES6 Generator](https://github.com/zhengqingxin/funny-javascript/blob/master/es5-generator/index.js)
